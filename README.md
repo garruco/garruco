@@ -50,7 +50,7 @@ I'm always open to new collaborations, especially in the fields of creative tech
 
 ## 🖥️ GitHub Stats & Activity
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garruco&show_icons=true&theme=radical&hide_title=true)
+![Pedro's GitHub Stats](https://github-readme-stats-two-dun-15.vercel.app/api?username=garruco&show_icons=true&theme=radical&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garruco&layout=compact&theme=radical)
 
