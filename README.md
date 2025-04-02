@@ -52,7 +52,7 @@ I'm always open to new collaborations, especially in the fields of creative tech
 
 ![Pedro's GitHub Stats](https://github-readme-stats-taupe-theta-35.vercel.app/api?username=garruco&show_icons=true&theme=dark&hide_title=true)
 
-![Top Languages](https://github-readme-stats-taupe-theta-35.vercel.app/api/top-langs/?username=garruco&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-taupe-theta-35.vercel.app/api/top-langs/?username=garruco&layout=compact&theme=dark)
 
 ---
 
