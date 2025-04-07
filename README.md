@@ -39,10 +39,6 @@ I'm always open to new collaborations, especially in the fields of creative tech
 
 ![Top Languages](https://github-readme-stats-taupe-theta-35.vercel.app/api/top-langs/?username=garruco&layout=compact&theme=dark)
 
----
-
-## 👁️‍🗨️ Visitor Badge
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=garuco&label=visits&color=blue&style=flat)
 
 ---
