@@ -1,4 +1,4 @@
-# [👋](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) Hi, I'm Pedro!
+# https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif Hi, I'm Pedro!
 
 🎓 PhD Candidate in Computational Media Design | HCI Researcher  
 🎮 Creator of generative audiovisual experiences | Passionate about emotion, sound, and aesthetics
@@ -18,25 +18,10 @@ I work at the intersection of:
 
 ---
 
-## 🧠 Featured Projects
-
-- 🎮 **Emotional Generative Game**  
-  A prototype designed to explore how audiovisual elements can shape emotional experiences. Player actions dynamically alter the environment, and post-play interviews help reveal how meaning and intention emerge.
-
-- 👁️‍🗨️ **Accessible Sensory Landscapes**  
-  An ongoing project that translates visual input into abstract soundscapes to support spatial awareness for visually impaired users.
-
-- 🎧 **Emotional Sound Library**  
-  A collection of custom-made sounds designed to influence human perception, mood, and atmosphere in interactive experiences.
-
----
-
 ## 🛠️ Skills & Tools
 
 - **Languages**: JavaScript, React, Processing
 - **Prototyping & Design**: Figma, Photoshop, Illustrator, Premiere, After Effects
-- **Qualitative Research**: Phenomenological analysis, interviews, co-design  
-- **Audio/Visual**: Sound design, generative visuals, interactive environments  
 
 ---
 
