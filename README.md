@@ -1,4 +1,4 @@
-# [Wave Emoji](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) Hi, I'm Pedro!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi!" /> Hi, I'm Pedro!
 
 🎓 PhD Candidate in Computational Media Design | HCI Researcher  
 🎮 Creator of generative audiovisual experiences | Passionate about emotion, sound, and aesthetics
